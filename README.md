@@ -123,7 +123,7 @@ git add -u
 git add <b>pdfs/*.pdf</b>
 </pre>
 
-### See modified files
+### See modified files 🔦
 
 <pre>
 git status
@@ -366,7 +366,7 @@ git tag -d <b>v0.1.0</b>
 git stash
 </pre>
 
-### Get the list
+### Get the list 💼
 
 <pre>
 git stash list
