@@ -171,7 +171,7 @@ git log
 git log --oneline --decorate --all --graph
 </pre>
 
-### Create a Aliase/Shortcut
+### Create a Aliase/Shortcut 💧
 
 <pre>
 git config --global alias.<b>lg</b> "log --oneline --decorate --all --graph"
@@ -275,6 +275,8 @@ git mv <b>index.js app.js</b>
 <pre>
 git rm <b>app.js</b>
 </pre>
+
+## Branches
 
 > A branch is basically a new timeline that stores commits. They are used to develop functionalities independent of each other. The master branch is the default branch when you create a repository. Create new branches during development and merge them to the main branch when you finish.
 
