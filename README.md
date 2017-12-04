@@ -28,7 +28,7 @@
 
 ## About this Guide::
   - 🔈 Everything in bold means that the value is relative, it changes according to each one.
-  - 🔈 Is not a finished version
+  - 🔈 Is not a finished version.
 
 ## Star the Project :star:
 
