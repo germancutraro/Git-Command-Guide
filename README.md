@@ -204,7 +204,7 @@ ___
 <img src="https://cdn-images-1.medium.com/max/1000/1*j-Hp4pn4NNx35nDP3qEniw.png" alt="git-germancutraro">
 </h1>
 
-### See all the changes that happened between the last commit and now 📍
+### See all the changes that happened between the working file and the staging file 📍
 
 <pre>
 git diff
