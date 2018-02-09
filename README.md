@@ -82,6 +82,12 @@ git help <b>commit</b>
 git init
 </pre>
 
+### Delete a Repository :boom:
+
+<pre>
+rm -rf .git
+</pre>
+
 ### Add a file 👉
 
 <pre>
