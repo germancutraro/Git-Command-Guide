@@ -26,7 +26,7 @@
     [Windows](http://git-scm.com/download/win) <br>
     **You can write the commands in your CMD or in the git bash terminal**
 
-## About this Guide::
+## About this Guide:
   - 🔈 Everything in bold means that the value is relative, it changes according to each one.
   - 🔈 Is not a finished version.
 
@@ -162,7 +162,7 @@ git reset <b>*.xml</b>
 ### Commit Changes 📝
 
 <pre>
-git commit -m <b>'Add the navbar'</b>
+git commit -m <b>'navbar created'</b>
 </pre>
 
 ### See all the commits that we did 👀
