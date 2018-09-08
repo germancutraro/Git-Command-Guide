@@ -64,6 +64,18 @@ git config --global user.name <b>"germancutraro"</b>
 git config — global user.email <b>“germancutraro@hotmail.com”</b>
 </pre>
 
+### See all configurations: 🌍
+
+<pre>
+git config —-list
+</pre>
+
+### See own custom configurations: 🌞
+
+<pre>
+git config --list --global
+</pre>
+
 ### Help Command 🙏
 
 ```
