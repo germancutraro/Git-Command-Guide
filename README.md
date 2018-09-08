@@ -216,7 +216,7 @@ ___
 git diff
 </pre>
 
-### See all the files that are in the Staging Area ⭕
+### See all the changes that happened between the staging area file and the commited file ⭕
 
 <pre>
 git diff --staged
