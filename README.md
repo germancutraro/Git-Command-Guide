@@ -196,12 +196,6 @@ git config --global alias.<b>lg</b> "log --oneline --decorate --all --graph"
 </pre>
 *So now we can do: `git lg` for the pretty log command* 👆
 
-### To see the configuration file 📘
-
-<pre>
-git config --global -l
-</pre>
-
 ___
 
 ## Review of the basic and important commands
