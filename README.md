@@ -64,6 +64,12 @@ git config --global user.name <b>"germancutraro"</b>
 git config — global user.email <b>“germancutraro@hotmail.com”</b>
 </pre>
 
+### Disable warning detached head:
+
+<pre>
+git config --global advice.detachedHead false
+</pre>
+
 ### See all configurations: 🌍
 
 <pre>
