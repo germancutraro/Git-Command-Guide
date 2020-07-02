@@ -61,7 +61,7 @@ git config --global user.name <b>"germancutraro"</b>
 ### Set E-mail credential: ✉️
 
 <pre>
-git config — global user.email <b>“germancutraro@hotmail.com”</b>
+git config —-global user.email <b>“germancutraro@hotmail.com”</b>
 </pre>
 
 ### Disable warning detached head:
